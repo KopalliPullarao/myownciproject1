@@ -7,7 +7,7 @@
     <server>
       <id>${SNAP_REPO}</id>
       <username>${NEXUS_USER}</username>
-      <password>${NEXUS-PASS}</password>
+      <password>${NEXUS_PASS}</password>
     </server>
     <server>
       <id>${RELEASE_REPO}</id>
